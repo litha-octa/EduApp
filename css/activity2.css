@@ -1,0 +1,305 @@
+@media (min-width:768px){
+body 	{background-color: #E5E5E5;}
+.progress{width:4%
+			height:4%;}
+aside{	float:left;
+		width:15%;
+		height: 100%;
+		margin-left: 2.5%;
+	}
+	header{display:none;}
+.aside-profile1{	background:#5784BA;
+					border-radius: 20px;	
+				}
+											#notif{				width:1.4vw;
+																margin-top: 10%;
+																margin-left: 85%;		
+											}
+											#mini-profile{		width: 5vw;
+																height: 10vh;
+																margin-left: 8%;
+																margin-top: 10%;
+											}
+											.name-profile{		font-family: Roboto;
+																font-style: normal;
+																font-weight: 500;
+																font-size: 1.3vw;
+																color: #ffffff;
+																margin-top: 9%;
+																margin-left:6%;
+											}
+
+											.status{  			font-family: Roboto;
+																font-style: normal;
+																font-weight: normal;
+																font-size: 1vw;
+																color: #ffffff;
+																margin-top: -7%;
+																margin-left: 6%;
+																padding-bottom: 20%;
+											}
+											.menu{				font-family: Montserrat;
+																font-style: normal;
+																font-weight: 600;
+																font-size: 1.2vw;
+																color:#ffffff;
+																margin-bottom: 20%;
+
+											}
+											#profile-icon{		font-family: Montserrat;
+																font-style: normal;
+																font-weight: 600;
+																width: 1.7vw;
+																color: #FFFFFF;	
+																margin-left: 5%;
+											}
+
+.aside-profile2{	background: #FFFFFF;
+					border-radius: 20px;
+					padding-top:10%;
+					padding-bottom: 20%;
+					margin-top:-15%;	
+				}
+												.selected-menu{		font-family: Montserrat;
+																	font-style: normal;
+																	font-weight: 600;
+																	font-size: 1.2vw;
+																	color: #202020;
+																	padding-bottom: -8%;
+												}
+.aside-profile3{	background:#5784BA;
+					border-radius: 20px;
+					padding-top: 10%;
+					margin-top: -10%;	
+					height:50%;
+				}					
+												label-2{		font-family: Montserrat;
+																font-style: normal;
+																font-weight: 600;
+																font-size: 1.2vw;
+																color: #FF1313;
+																margin-bottom: 40%;
+														}		
+.back-icon{	
+	width:2vw;
+	margin-left: 5%; }
+
+.myclass{	font-size: 1.5vw;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		color: #000000;
+		margin-bottom: 2%;
+		margin-top: 2%;
+}
+.search{
+	width:50%;
+	height:7%;
+	margin-left: 5%;
+	border-radius: 5px;
+}
+#search{
+	background: #5784BA;
+	border-radius: 5px;
+	height: 7%;
+	width:7%;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 1vw;
+	color: #FFFFFF;
+}
+#dropdown{
+	background: #FFFFFF;
+	border-radius: 5px;
+	float:right;
+	margin-right:5%;
+	height: 8%;
+	width:13%;
+	margin-left:1%;
+}
+.disable{
+				font-family: Montserrat;
+				font-style: normal;
+				font-weight: 500;
+				font-size: 0.5vw;
+				color: #9A9A9A;
+
+}
+.not-disable{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: :0.5vw;
+	color: #000000;
+	
+}
+table{
+	width:75%;
+	margin-right: 2.5%;
+	float:right;
+}
+.tr-table{
+	margin-bottom: 20%
+	margin-top: 20%;
+	background-color: white;
+}
+p{
+					font-family: Montserrat;
+					font-style: normal;
+					font-weight: bold;
+					font-size: 1.7vw;
+					letter-spacing: 0.05em;
+					margin-left: 5%;
+}
+.list{
+	float:right;
+	margin-top: 10%;
+	margin-right: 10%;
+}
+.score-green{color: #51E72B;}
+.score-yellow{color: #CCE72B;}
+.score-tosca{color: #2BE781;}
+.score-blue{color: #2BE7D0;}
+.score-red{color: #E6422B;}
+
+.last-line{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	letter-spacing: 0.05em;
+	color: #000000;
+	padding-top: 2%;
+}
+.slide{
+	margin-left: 0%;
+	float:right;
+	width:3vw;
+	margin-top:-1%;
+}
+}
+
+
+
+
+
+@media (max-width: 767px){
+body 	{background-color: #E5E5E5;}
+aside{display:none;}
+header .container-2{ width: 100%;
+	background-color: #5784BA;
+
+	 }
+.header1{background-color: white;
+			color:black;
+			font-size: 3vw;
+			font-family: Montserrat;
+			font-style: normal;
+			font-weight: 500;
+			text-decoration: none;
+			border-radius: 5px;
+			margin-right: 2%;}
+.header2{background-:none;
+			color:black;
+			font-size: 3vw;
+			font-family: Montserrat;
+			font-style: normal;
+			font-weight: 500;
+			text-decoration: none;
+			border-radius: 5px;
+			margin-right: 2%;}
+
+.back-icon{	width:1.5rem;
+			margin-left: 3%;}
+
+
+.myclass{	font-size: 3vw;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		color: #000000;
+		margin-bottom: 2%;
+		margin-top: 2%;
+}
+.search{
+	width:50%;
+	height:5%;
+	margin-left: 5%;
+	border-radius: 5px;
+}
+#search{
+	background: #5784BA;
+	border-radius: 5px;
+	height:5%;
+	width:20%;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 3vw;
+	color: #FFFFFF;
+}
+#dropdown{
+	background: #FFFFFF;
+	border-radius: 5px;
+	height: 8%;
+	width:15%;
+	background-color: lightgrey ;
+}
+.disable{
+				font-family: Montserrat;
+				font-style: normal;
+				font-weight: 500;
+				font-size: 0.5vw;
+				color: #9A9A9A;
+
+}
+.not-disable{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: :0.5vw;
+	color: #000000;
+}
+table{
+	width:80%;
+}
+td{font-size: 1.5vw;}
+.tr-table{
+	background-color: white;
+}
+p{
+					font-family: Montserrat;
+					font-style: normal;
+					font-weight: bold;
+					font-size: 5vw;
+					letter-spacing: 0.05em;
+					margin-left: 5%;
+}
+.list{
+	float:right;
+	margin-top: 10%;
+	margin-right: 10%;
+}
+.score-green{color: #51E72B;}
+.score-yellow{color: #CCE72B;}
+.score-tosca{color: #2BE781;}
+.score-blue{color: #2BE7D0;}
+.score-red{color: #E6422B;}
+
+.last-line{
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+letter-spacing: 0.05em;
+color: #000000;
+padding-top: 2%;
+}
+.slide{
+	margin-left: 0%;
+	float:right;
+	width:3vw;
+	margin-top:-1%;
+}
+}

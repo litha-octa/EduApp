@@ -1,0 +1,285 @@
+/* tampilan laptop */
+@media  (min-width: 769px) {
+body{	background-color: #E6EDF6;
+	}
+h1{		
+		font-family: Kanit;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 3vw;
+		color: #010620;
+		margin: 5% 0 12% 0;
+		text-align: center;
+	}
+#input-label{		
+					margin:2% 0 0 18%;
+					font-family: Kanit;
+					font-style: normal;
+					font-weight: normal;
+					font-size: 1vw;
+					color: #ADA9BB;
+					background-color: #E5E5E5;
+					width: 10vw;
+ 				}
+#label-login-input {	
+					width: 70%;
+					height: 4vw;
+					margin-left: 18%;
+					background: #FFFFFF;
+					border: 1px solid #ADA9BB;
+					box-sizing: border-box;
+					border-radius: 5px;
+				}
+				.name{				
+									font-family: Roboto;
+									font-style: normal;
+														font-weight: normal;
+														font-size: 1.8vw;
+														color: #010620;
+														margin-top: 4%;
+														margin-left: 5%;
+									}
+.link-toreset{	
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 1vw;
+		color: #000000;
+		margin:0  12% 8% 0;
+		float:right;
+		text-decoration:none;
+	}
+
+button{			width: 70%;
+				height: 4vw;
+				border:none;
+				border-radius: 5px;
+				margin:5% 0 0 18%;
+				font-family: Kanit;
+				font-style: normal;
+				font-weight: 500;
+				font-size: 17px;
+	   }
+
+.btn-login{	
+			background: #5784BA;
+			color: #FFFFFF;
+			}
+
+.btn-google{
+	background: rgba(0, 13, 79, 0.08);
+	color: #010620;
+	margin-top: 2%;
+}
+			
+.google{
+		width:9%;
+}
+
+.register{
+	font-family: Kanit;
+font-style: normal;
+font-weight: 500;
+font-size: 1vw;
+color: #ADA9BB;
+margin-top: 5vw;
+text-align: center;
+}
+#link-toregis{
+	color: blue;
+}
+
+}
+
+
+
+
+
+
+/* tampilan tablet */
+@media   (max-width: 768px) and (min-width: 426px){
+body{	background-color: #E6EDF6;
+	}
+h1{		
+		font-family: Kanit;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 2em;
+		color: #010620;
+		margin: 10% 0 20% 0;
+		text-align: center;
+	}
+
+	#input-label{		
+					margin:2% 0 0 0%;
+					font-family: Kanit;
+					font-style: normal;
+					font-weight: normal;
+					font-size: 1.5vw;
+					color: #ADA9BB;
+					background-color: #E5E5E5;
+					width: 15vw;
+ 				}
+#label-login-input {	
+					width: 40vw;
+					height: 5vw;
+					background: #FFFFFF;
+					border: 1px solid #ADA9BB;
+					box-sizing: border-box;
+					border-radius: 5px;		
+														font-family: Roboto;
+														font-style: normal;
+														font-weight: normal;
+														font-size: 1.8vw;
+														color: #010620;
+									}
+.link-toreset{	
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: 800;
+		font-size: 0.6rem;
+		color: #000000;
+		float: right;
+		margin-right: 10%;
+		text-decoration:none;
+	}
+
+button{			width: 40vw;
+					height: 5vw;
+				border:none;
+				border-radius: 5px;
+				margin:15% 0 0 0%;
+				font-family: Kanit;
+				font-style: normal;
+				font-weight: 500;
+				font-size: 13px;
+	   }
+
+.btn-login{	
+			background: #5784BA;
+			color: #FFFFFF;
+			}
+
+.btn-google{
+	background: rgba(0, 13, 79, 0.08);
+	color: #010620;
+	margin-top: 5%;
+}
+			
+.google{
+		width:9%;
+}
+.register{
+	font-family: Kanit;
+font-style: normal;
+font-weight: 500;
+font-size: 1.4vw;
+color: #ADA9BB;
+margin-top: 5vw;
+text-align: center;
+}
+#link-toregis{
+	color: blue;
+}
+
+}
+
+
+
+
+
+
+/* tampilan tablet */
+@media(max-width: 425px){
+body{	background-color: #E6EDF6;
+	}
+.col{width:5%;}
+.col-6{width:90%;}
+h1{		
+		font-family: Kanit;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 2em;
+		color: #010620;
+		margin: 10% 0 20% 34%;
+	}
+	#input-label{		
+					margin:2% 0 0 18%;
+					font-family: Kanit;
+					font-style: normal;
+					font-weight: normal;
+					font-size: 1vw;
+					color: #ADA9BB;
+					background-color: #E5E5E5;
+					width: 10vw;
+ 				}
+#label-login-input {	
+					width: 60%;
+					height: 5vh;
+					min-width:150px;
+					min-height: 30px;
+					margin-left: 18%;
+					background: #FFFFFF;
+					border: 1px solid #ADA9BB;
+					box-sizing: border-box;
+					border-radius: 5px;
+				}
+									.name{				
+														font-family: Roboto;
+														font-style: normal;
+														font-weight: normal;
+														font-size: 1.8vw;
+														color: #010620;
+									}
+.link-toreset{	
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: 800;
+		font-size: 9px;
+		color: #000000;
+		float:right;
+		margin:0% 23% 0 0%;
+		text-decoration:none;
+	}
+
+button{			width: 60%;
+				height: 5vh;
+				min-width:150px;
+				min-height: 30px;
+				border:none;
+				border-radius: 5px;
+				margin:10% 0 0 18%;
+				font-family: Kanit;
+				font-style: normal;
+				font-weight: 500;
+				font-size: 12px;
+	   }
+
+.btn-login{	
+			background: #5784BA;
+			color: #FFFFFF;
+			}
+
+.btn-google{
+	background: rgba(0, 13, 79, 0.08);
+	color: #010620;
+	margin-top: 5%;
+}
+			
+.google{
+		width:10%;
+}
+.register{
+	font-family: Kanit;
+font-style: normal;
+font-weight: 500;
+font-size: 2.3vw;
+color: #ADA9BB;
+margin-top: 5vw;
+text-align: center;
+}
+#link-toregis{
+	color: blue;
+}
+}
+

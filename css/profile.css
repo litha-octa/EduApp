@@ -1,0 +1,274 @@
+@media (min-width:768px){
+body{
+	background-color: #E5E5E5;
+}
+aside{
+	float:left;
+	width:21%;
+	height: 100%;
+	margin-right: 2%;
+}
+.aside-profile1{
+	background: #FFFFFF;
+	border-radius: 20px;
+}
+#notif{
+		width:1.4vw;
+		margin-top: 10%;
+		margin-left: 85%;
+}
+#mini-profile{
+width: 5vw;
+height: 10vh;
+margin-left: 8%;
+margin-top: 10%;
+}
+.name-profile{
+			font-family: Roboto;
+			font-style: normal;
+			font-weight: 500;
+			font-size: 1.3vw;
+			color: #202020;
+			margin-top: 9%;
+			margin-left:6%;
+}
+.status{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1vw;
+	color: #202020;
+	margin-top: -7%;
+	margin-left: 6%;
+	padding-bottom: 40%;
+
+}
+.aside-profile2{
+		background:#5784BA;
+		border-radius: 20px;
+		margin-top: -20%;
+		padding-top: 10%;
+		padding-bottom: 100%;
+}
+#profile-icon{
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 600;
+		font-size: 1vw;
+		color: #FFFFFF;
+		margin-top: 7%;
+		margin-left: 5%;
+}
+article{
+	width:75%;
+	height: 100%;
+	float:right;
+}
+section{
+	position: absolute;
+	width: 75%;
+	height:30vw;
+	right:7px;
+	background: linear-gradient(0deg, #000000 -94.8%, rgba(0, 0, 0, 0) 122%);
+	border-radius: 20px 20px 0px 0px;
+	margin-left:30px;
+}
+
+#section-bg{
+	position: absolute;
+	width: 75%;
+	height:30vw;
+	right:7px;
+	border-radius: 20px 20px 0px 0px;
+	margin-left:30px;
+}
+
+#profile{
+			width:13vw;
+			margin-top: 6%;
+			margin-left: 39%;
+}
+#profile-icon{
+			width:12%;
+			padding-bottom: 4%;
+}
+.label{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 2vw;
+	color: #FFFFFF;
+	padding-bottom: -8%;
+	text-decoration:none;
+}
+
+.label-2{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 2vw;
+	color: #FF1313;
+	text-decoration:none;
+}
+
+#edit-icon{
+	width:1.7vw;
+	margin-top:24%;
+	margin-left: -2%;
+}
+
+
+h4{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 2vw;
+color: #000000;
+margin-top:40%;
+padding-left: 3%;
+padding-top: 2%;
+background-color:white;
+padding-bottom: :5%;
+}
+#text{
+	margin-top:-4%;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 1.2vw;
+	color: #000000;
+	padding-top: 2%;
+	padding-left: 3%;
+	background-color:white;
+	}
+
+#name-profile{
+			font-family: Roboto;
+			font-style: normal;
+			font-weight: 500;
+			font-size: 1.8vw;
+			color: white;
+			margin-top: 5%;
+			margin-left:40%;
+}
+#menu-profile{width:3%;}
+#icon{float:right;width:2vw;}
+footer{display:none;}
+}
+
+
+
+
+@media (max-width:767px){
+body{
+	background-color: #E5E5E5;
+} aside{display:none;}
+
+
+
+
+/*article 1*/
+article{
+	width:100%;
+	height: 100%;
+}
+section{
+	position: absolute;
+	float:top;
+	width: 100vw;
+	height:49.5vh;
+	margin-top: 1%;
+	background: linear-gradient(0deg, #000000 -94.8%, rgba(0, 0, 0, 0) 122%);
+	border-radius: 20px 20px 0px 0px;
+	
+}
+#section-bg{
+	position: absolute;
+	float:top;
+	width: 100vw;
+	height:50vh;
+	border-radius: 20px 20px 0px 0px;
+	align-content: center;
+}
+
+#profile{
+			width:17vw;
+			margin-left: 39%;
+}
+#edit-icon{
+	width:2vw;
+	margin-top:18%;
+	margin-left: -2%;
+}
+#name-profile{
+			font-family: Roboto;
+			font-style: normal;
+			font-weight: 500;
+			font-size: 1rem;
+			color: white;
+			margin-left:40%;}
+
+/*article2*/
+.article-2{
+	margin-top: 30%;
+	position: absolute;
+	background-color:white;
+}
+h4{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 2.5vw;
+color: #000000;
+
+background-color:white;
+}
+#text{
+	margin-top:-4%;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 2vw;
+	color: #000000;
+	padding-left: 3%;
+	}
+#menu-profile{
+	width:3%;
+	margin-top: 1%;
+}
+#icon{
+	margin-right: 5%;
+	float: right;
+	width:2vw;
+}
+footer{background-color:#5784BA;
+	bottom: 0px;
+	position: absolute;
+	width: 100%;
+	height: 13vh;
+	padding-top:3%;
+	border-radius: 10px;
+	 }
+#profile-icon1{
+				width: 6vw;
+				height: 6vh;
+				left:0;
+				margin-left: 0%;	
+}
+#profile-icon2{
+				width: 6vw;
+				height: 6vh;
+				margin-left: 20%;
+				
+}#profile-icon3{
+				width: 6vw;
+				height: 6vh;
+				margin-left: 20%;
+}#profile-icon4{
+				width: 6vw;
+				height: 6vh;
+				margin-left: 20%;
+				margin-top: 0%;
+				float: right;
+}
+}
